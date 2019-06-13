@@ -34,4 +34,4 @@ Flashing
 - Click options and then EZ-USB Interface
 - Click download and then select VirtualCom.hex in the AN58764 folder you extracted earlier
 - Open device manager and make sure you know what COM port the device is now listed as
-- Run "new_fpga_flash COM# gcos_1_5_tmbinc.bin" in comman prompt (replace # with whatever number your com port is in device manager)
+- Run "new_fpga_flash COM# gcos_1_5_tmbinc.bin" in command prompt (replace # with whatever number your com port is in device manager)
